@@ -1,5 +1,5 @@
 (function () {
-  var EMAIL = 'thijmenvanhuffelen7@gmail.com';
+  var EMAIL = 'thijmen@scalvio.eu';
   var eur = function (n) { return '€' + Math.round(n).toLocaleString('en-GB'); };
   var round = function (n) { return n >= 10000 ? Math.round(n / 500) * 500 : Math.round(n / 100) * 100; };
 
